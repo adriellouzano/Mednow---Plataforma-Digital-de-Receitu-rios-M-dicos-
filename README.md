@@ -43,7 +43,6 @@ Senha: 123
 - Controle de prescrições médicas
 - Agendamento de alarmes de medicação
 - Registro de entregas e eventos clínicos
-- Sistema de notificações
 - Monitoramento e seleção de perfis
 
 ---
